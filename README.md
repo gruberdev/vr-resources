@@ -28,6 +28,10 @@ Most of these repositories (if not all of them) were at least updated after Dec.
 - [Punchkeyboard is an open-source keyboard for virtual reality, enhanced with autocomplete and next word prediction functionality for a swift typing experience](https://github.com/rjth/Punchkeyboard)
 - [VR-Interaction & Base VR Interaction, this asset is used by the unity assets: VR Weapon Interactor, Arc Teleporter and VR User Interfaces](https://github.com/MasOverflow/VR-Interaction)
 - [Fingertip-Mixed-Reality, Affine transformation virtual 3D object using a finger gesture-based interactive system in the virtual environment](https://github.com/MahmudulAlam/Fingertip-Mixed-Reality)
+- [Vivegrip, A Physics-based grabbing for SteamVR development in Unity](https://github.com/JScott/ViveGrip)
+- [vr-modelling, A 3D Modeling in Virtual Reality with libigl for the Unity Engine](https://github.com/rogerbarton/vr-modeling)
+- [utymap, Highly customizable library for procedural world generation based on real map data](https://github.com/reinterpretcat/utymap)
+- [Mondeto, An open, flexible, and secure online virtual reality system](https://github.com/tana/Mondeto)
 
 ## VRChat
 
@@ -46,10 +50,14 @@ Most of these repositories (if not all of them) were at least updated after Dec.
 - [MirrorVR< live, desktop mirror for web-based virtual reality app running on mobile](https://github.com/alvinwan/mirrorvr)
 - [Musialize is a VR experience, that translates music into an educational visual experience](https://github.com/AmitBu/musialize-vr)
 - [BitcoinVR, an experiment to build a realtime VR visualization of Bitcoin transactions on the blockchain](https://github.com/bitcoin-vr/bitcoin-vr)
+- [Blockchain3D, Open-source 3D and VR Blockchain Visualisations](https://github.com/KevinSmall/blockchain3d)
 - [Duck-themed multi-user virtual spaces in WebVR. Built with A-Frame.](https://github.com/mozilla/hubs)
 - [IdeaSpaceVR, Create interactive 3D and VR web experiences for desktop, mobile & VR devices](https://github.com/IdeaSpaceVR/IdeaSpace)
 - [Augmented Reality for everyone - Out of the world experiences, built using A-Frame](https://github.com/liyasthomas/lvr)
 - [VRWorkout, High-intensity virtual reality workout game](https://github.com/mgschwan/VRWorkout)
+- [cosmoscout-vr, A virtual universe which lets you explore, analyze and present huge planetary datasets and large simulation data in real-time](https://github.com/cosmoscout/cosmoscout-vr)
+- [virtual-walk, Virtual walks in Google Street View using PoseNet and applying Deep Learning models to recognize actions](https://github.com/Moving-AI/virtual-walk)
+
 
 ## Web-Based Frameworks
 
@@ -97,6 +105,8 @@ Most of these repositories (if not all of them) were at least updated after Dec.
 - [Software Development Kit for AltspaceVR](https://github.com/AltspaceVR/AltspaceSDK)
 - [WebXR hand tracking examples](https://github.com/marlon360/webxr-handtracking)
 - [force-3d-graph-vr, 3D force-directed graph component in VR](https://github.com/vasturiano/3d-force-graph-vr)
+- [resonate, Building generative VR worlds](https://github.com/marpi/resonate)
+- [RemixVR, RemixVR is a tool for collaboratively building customisable VR experiences](https://github.com/teliportme/remixvr)
 
 ## Research
 
@@ -107,6 +117,9 @@ Most of these repositories (if not all of them) were at least updated after Dec.
 - [ApertusVR, A Virtual Reality Software Library](https://github.com/MTASZTAKI/ApertusVR)
 - [VRVisualizer, A virtual reality visualization system for scientific data](https://github.com/NoobsDeSroobs/VRVizualizer)
 - [VR-Neuroanotomy, Explore and dissect a complete brain model in VR. Made for the Oculus Quest in Unity](https://github.com/chrislarkee/VR-Neuroanatomy)
+- [Bullet3, bullet physics SDK, real-time detection and other interesting stuff such as robotics and IA](https://github.com/bulletphysics/bullet3)
+- [V2R, Code for our IJCAI 2020 paper: "Keep It Real: a Window to Real Reality in Virtual Reality"](https://github.com/doerlbh/V2R)
+- [vria, A Web-based Framework for Creating Immersive Analytics Experiences](https://github.com/vriajs/vria)
 
 ## Other tools
 
@@ -118,3 +131,9 @@ Most of these repositories (if not all of them) were at least updated after Dec.
 - [VRChat Mod that makes Valve Index thumb positions accessible in Avatar V3 Parameters](https://github.com/benaclejames/VRCThumbParams)
 - [Frunkduino, An Arduino-compatible board that fits in the Frunk of the Valve Index](https://github.com/MadlyFX/Frunkduino)
 - [Valve Index Controllers as static meshes in .uasset format ready to use in Unreal Engine 4](https://github.com/marianpekar/valve-index-controllers-ue4-ready)
+
+## Other resources
+- [Awesome UX VR List](https://github.com/mauricesvay/awesome-vr-ux)
+- [Mixed Reality Resource list](https://github.com/Yonet/MixedRealityResources)
+- (Deprecated but still useful!) [List of UX Videos and courses on VR interface good practices](https://www.uxofvr.com/)
+- [Awesome 3D List of Resources on Github](https://github.com/taurenshaman/awesome-3d)
