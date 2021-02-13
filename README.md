@@ -32,12 +32,16 @@ Most of these repositories (if not all of them) were at least updated after Dec.
 - [vr-modelling, A 3D Modeling in Virtual Reality with libigl for the Unity Engine](https://github.com/rogerbarton/vr-modeling)
 - [utymap, Highly customizable library for procedural world generation based on real map data](https://github.com/reinterpretcat/utymap)
 - [Mondeto, An open, flexible, and secure online virtual reality system](https://github.com/tana/Mondeto)
+- [AI4U provides an easy way to connect python code with Unity games. This way, you can use the entire available Python machine learning culture to experiment machine learning algorithms and artificial intelligence with Unity](https://github.com/gilcoder/AI4U)
 
 ## VRChat
 
 - [Creating a v3.0 avatar on Unity easily](https://github.com/BirdiePeep/VRCAvatarActions)
 - [Our brothers, awesome-vrchat](https://github.com/madjin/awesome-vrchat)
 - [An VRChat Avatar Editor plugin for Unity](https://github.com/gatosyocora/VRCAvatarEditor)
+- [PumkinsAvatarTools, A toolbox for easily setting up VRChat avatars in Unity. Adds functionality to the editor and automates some of the tedious tasks](https://github.com/rurre/PumkinsAvatarTools)
+- [VRChatPython, an API in Python to connect to VRChat!](https://github.com/vrchatapi/VRChatPython)
+- [VRChatModInstaller, Automatically installs VRChat mods with a single click](https://github.com/Slaynash/VRChatModInstaller)
 
 ### Motion Controllers inside Unity!
 
@@ -57,6 +61,7 @@ Most of these repositories (if not all of them) were at least updated after Dec.
 - [VRWorkout, High-intensity virtual reality workout game](https://github.com/mgschwan/VRWorkout)
 - [cosmoscout-vr, A virtual universe which lets you explore, analyze and present huge planetary datasets and large simulation data in real-time](https://github.com/cosmoscout/cosmoscout-vr)
 - [virtual-walk, Virtual walks in Google Street View using PoseNet and applying Deep Learning models to recognize actions](https://github.com/Moving-AI/virtual-walk)
+- [celestiary, Astronomical simulator web app](https://github.com/celestiary/celestiary)
 
 
 ## Web-Based Frameworks
