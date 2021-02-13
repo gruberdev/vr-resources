@@ -1,6 +1,8 @@
 # Virtual Reality Resources
 #### A repository to aggregate resources for VR development
 
+Most of these repositories (if not all of them) were at least updated after Dec. 2019, and thus, could be considered "reasonably" active. Any suggestions or critiques, please open an issue, thank you!
+
 
 ## Unity Resources
 
@@ -23,8 +25,9 @@
 - [MikuMikuXR is a MikuMikuDance player powered by libmmd-for-unity, which supports VR glass, AR camera and holographic pyramid.](https://github.com/x3bits/MikuMikuXR)
 - [Hover UI Kit, create beautiful user interfaces for immersive VR/AR experiences.](https://github.com/aestheticinteractive/Hover-UI-Kit)
 - [IslandViz: A Tool for Visualizing Modular Software Systems in Virtual Reality](https://github.com/DLR-SC/island-viz)
-- [Fingertip-Mixed-Reality, ]()
-
+- [Punchkeyboard is an open-source keyboard for virtual reality, enhanced with autocomplete and next word prediction functionality for a swift typing experience](https://github.com/rjth/Punchkeyboard)
+- [VR-Interaction & Base VR Interaction, this asset is used by the unity assets: VR Weapon Interactor, Arc Teleporter and VR User Interfaces](https://github.com/MasOverflow/VR-Interaction)
+- [Fingertip-Mixed-Reality, Affine transformation virtual 3D object using a finger gesture-based interactive system in the virtual environment](https://github.com/MahmudulAlam/Fingertip-Mixed-Reality)
 
 ## VRChat
 
@@ -46,18 +49,21 @@
 - [Duck-themed multi-user virtual spaces in WebVR. Built with A-Frame.](https://github.com/mozilla/hubs)
 - [IdeaSpaceVR, Create interactive 3D and VR web experiences for desktop, mobile & VR devices](https://github.com/IdeaSpaceVR/IdeaSpace)
 - [Augmented Reality for everyone - Out of the world experiences, built using A-Frame](https://github.com/liyasthomas/lvr)
+- [VRWorkout, High-intensity virtual reality workout game](https://github.com/mgschwan/VRWorkout)
 
 ## Web-Based Frameworks
 
 - [RealityUI, a collection of classes of components for Switft](https://github.com/maxxfrazer/RealityUI)
 - [A-Frame VR, the main framework for building web experiences through Virtual Reality](https://github.com/aframevr/aframe)
   - [A-Frame React](https://github.com/supermedium/aframe-react)
+  - [A-Frame Networked](https://github.com/networked-aframe/networked-aframe)
   - [A-Frame React Boilerplate](https://github.com/ngokevin/aframe-react-boilerplate)
   - [Physics system for A-Frame VR, built on CANNON.js](https://github.com/n5ro/aframe-physics-system)
   - [A-Frame click & drag component](https://github.com/jesstelford/aframe-click-drag-component)
   - [A-Frame Inspector tool](https://github.com/aframevr/aframe-inspector)
   - [A-Frame Watcher, A Companion server for A-Frame Inspector to sync changes back to HTML files](https://github.com/supermedium/aframe-watcher)
   - [A-Frame Examples](https://github.com/HackyRoot/A-Frame-Examples)
+  - [A-Frame Materials, Inputs, keyboard, buttons, checkboxes, radio buttons, switches, forms, toasts and more for A-Frame](https://github.com/etiennepinchon/aframe-material)
   - [reactor-3d-editor, A-Frame based 3D visualization editing tool](https://github.com/salgum1114/react-3d-editor)
   - [A-Frame based React component for data visualization in VR](https://github.com/mustafasaifee42/VR-Viz)
   - [Build a two-handed bow and arrow w/physics in webVR using A-Frame](https://github.com/imgntn/jBow)
@@ -71,10 +77,15 @@
   - [Moonrider, A Surf the musical road among the stars. Side project built by two people in a few months to demonstrate WebXR](https://github.com/supermedium/moonrider)
   - [A-Frame Keyboard, An Aframe component that renders a fully functional 3D keyboard, that works on mobile, desktop browers, and VR headsets!](https://github.com/WandererOU/aframe-keyboard)
   - [Blender Exporter for A-Frame](https://github.com/silverslade/aframe_blender_exporter)
+  - [aframe-superhands-componentAll-in-one natural hand controller, pointer, and gaze interaction library for A-Frame](https://github.com/wmurphyrd/aframe-super-hands-component)
   - [Onoffice, The open-source Virtual Office, powered by WebVR](https://github.com/rvdleun/onoffice)
   - [aframe-terrain-model-component, Create terrain for A-Frame scenes with data!](https://github.com/bryik/aframe-terrain-model-component)
+  - [aframe-teleport-controls, A-Frame teleport controls component](https://github.com/fernandojsg/aframe-teleport-controls)
   - [aframe-svg-extruder, A-Frame component to extrude your SVG's files and use in WebVR scenes like mag](https://github.com/luiguild/aframe-svg-extruder)
   - [aframe-super-hot-loader, Webpack loader for hot reloading A-Frame components and shaders](https://github.com/supermedium/aframe-super-hot-loader)
+  - [aframe-supercomponents, A super collection of A-Frame components](https://github.com/supermedium/superframe)
+  - [xr-graph, View mathematical function graphs in Virtual Reality and Augmented Reality.](https://github.com/marlon360/xr-graph)
+  - [aframe-gui, A Graphical User Interface Component Framework for A-Frame VR](https://github.com/rdub80/aframe-gui)
 - [FirefoxReality, a Firefox browser made for VR](https://github.com/MozillaReality/FirefoxReality)
 - [VRSpace, a multi-user engine for web virtual environments](https://github.com/jalmasi/vrspace)
 - [ARENA-core, a web framework for VR <> AR interaction with multiple users](https://github.com/conix-center/ARENA-core)
@@ -95,10 +106,12 @@
 - [VRmol: an Integrative Web-Based Virtual Reality System to Explore Macromolecular Structure](https://github.com/kuixu/VRmol)
 - [ApertusVR, A Virtual Reality Software Library](https://github.com/MTASZTAKI/ApertusVR)
 - [VRVisualizer, A virtual reality visualization system for scientific data](https://github.com/NoobsDeSroobs/VRVizualizer)
+- [VR-Neuroanotomy, Explore and dissect a complete brain model in VR. Made for the Oculus Quest in Unity](https://github.com/chrislarkee/VR-Neuroanatomy)
 
 ## Other tools
 
 - [BlenderXR, Use Blender in VR/AR/XR](https://github.com/MARUI-PlugIn/BlenderXR)
+- [pyopenvr, Unofficial python bindings for Valve's OpenVR virtual reality SDK](https://github.com/cmbruns/pyopenvr)
 
 ## Valve Index Projects
 
