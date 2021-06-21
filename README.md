@@ -42,7 +42,15 @@ Most of these repositories (if not all of them) were at least updated after Dec.
 - [PumkinsAvatarTools, A toolbox for easily setting up VRChat avatars in Unity. Adds functionality to the editor and automates some of the tedious tasks](https://github.com/rurre/PumkinsAvatarTools)
 - [VRChatPython, an API in Python to connect to VRChat!](https://github.com/vrchatapi/VRChatPython)
 - [VRChatModInstaller, Automatically installs VRChat mods with a single click](https://github.com/Slaynash/VRChatModInstaller)
-
+- [VRCX, manage your friendship of VRChat](https://github.com/pypy-vrc/VRCX)
+- [Cats Blender, A tool designed to shorten steps needed to import and optimize models into VRChat](https://github.com/GiveMeAllYourCats/cats-blender-plugin)
+- [VRChat-Avatars-3.0, Public assets for VRChat](https://github.com/VRLabs/VRChat-Avatars-3.0)
+- [VRCAvatarActions, Unity script for creating VRChat avatar 3.0 content faster and easier](https://github.com/BirdiePeep/VRCAvatarActions)
+- [VRChatVibratorController, Lets you control your friends lovense using your vr controllers](https://github.com/markviews/VRChatVibratorController)
+- [combo-gesture-expressions-av3, Easily create face expressions animations, and generate Avatars 3.0 animator layers for hand gestures to control face expressions](https://github.com/hai-vr/combo-gesture-expressions-av3)
+- [OpenVR-FBTWalk, Natural unlimited walking in vrchat](https://github.com/Yuumum/OpenVR-FBTWalk)
+- [Av3Emulator, Emulator for VRChat's Avatars 3.0 system, built on the Unity PlayableGraph API](https://github.com/lyuma/Av3Emulator)
+ 
 ### Motion Controllers inside Unity!
 
 - [Mediapipe controlled hands plugin](https://github.com/TesseraktZero/UnityHandTrackingWithMediapipe)
@@ -62,7 +70,7 @@ Most of these repositories (if not all of them) were at least updated after Dec.
 - [cosmoscout-vr, A virtual universe which lets you explore, analyze and present huge planetary datasets and large simulation data in real-time](https://github.com/cosmoscout/cosmoscout-vr)
 - [virtual-walk, Virtual walks in Google Street View using PoseNet and applying Deep Learning models to recognize actions](https://github.com/Moving-AI/virtual-walk)
 - [celestiary, Astronomical simulator web app](https://github.com/celestiary/celestiary)
-
+- [vrs, A serverless virtual reality e-commerce experience powered by Vercel](https://github.com/vercel/vrs)
 
 ## Web-Based Frameworks
 
@@ -112,6 +120,10 @@ Most of these repositories (if not all of them) were at least updated after Dec.
 - [force-3d-graph-vr, 3D force-directed graph component in VR](https://github.com/vasturiano/3d-force-graph-vr)
 - [resonate, Building generative VR worlds](https://github.com/marpi/resonate)
 - [RemixVR, RemixVR is a tool for collaboratively building customisable VR experiences](https://github.com/teliportme/remixvr)
+
+## Engines for VR
+
+- [Lovr, A simple Lua framework for rapidly building VR experiences](https://github.com/bjornbytes/lovr)
 
 ## Research
 
